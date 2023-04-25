@@ -1,0 +1,58 @@
+body {
+    background-color: #dddddd;
+    color: #333;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Arial, sans-serif;
+    color: #444;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0062cc;
+}
+li {
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    justify-items: center;
+    line-height: 60px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    height: auto;
+}
+form {
+    padding: 15px;
+}
+a {
+    color: #c683cc;
+    font-size: 2em;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+}
+a:hover {
+    color: #891694;
+}
+ul.Recurso li {
+    display: block;
+}
